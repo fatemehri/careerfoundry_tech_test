@@ -11,7 +11,7 @@ calculated price volatility with std function from NumPy python library. With al
 The daily price volatility in `price_open`, `price_high`, `price_low` and `price_close` parameters in year 2020.
 ```
 
-## Folders of Project Structure:
+## Structure of project folders:
 ```
     Deliverable1
     ├── btc_price_variation.py
