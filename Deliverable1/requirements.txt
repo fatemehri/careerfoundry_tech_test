@@ -1,0 +1,2 @@
+psycopg2-binary==2.8.6
+numpy==1.16.3
